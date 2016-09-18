@@ -3,3 +3,4 @@
 *.ckpt
 *.meta
 *.pickle
+checkpoint
