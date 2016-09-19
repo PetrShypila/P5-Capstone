@@ -4,3 +4,6 @@
 *.meta
 *.pickle
 checkpoint
+extra
+test
+train
