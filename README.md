@@ -8,6 +8,7 @@ Project built on two major steps which are coded in those files:
 - Training set([train.tar.gz](http://ufldl.stanford.edu/housenumbers/train.tar.gz))
 - Testing set([test.tar.gz](http://ufldl.stanford.edu/housenumbers/test.tar.gz))
 - Extra set([extra.tar.gz](http://ufldl.stanford.edu/housenumbers/extra.tar.gz))
+
 Once again, this data could be downloaded automatically during script execution or put to project directory manually. If you already have these archives there is no need to do it again.
 
 If you don't want to pass through all steps with data preprocessing(they take quite a lot time) at all you are able to go directly to step 2(file `2-recognition.ipynb`) but first you need to put a SVHN.picke file into project directory. SVHN.pickle file could be downloaded [here(Dropbox link)](https://www.dropbox.com/s/ik8yukw0aogmb0z/SVHN.pickle?dl=0) and should be moved to project directory where this README file is located. 
